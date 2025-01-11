@@ -1,7 +1,6 @@
 <!-- ## Roxiler_Assesment -->
-<h1 align="center">Roxiler Assesment </h1>
-![Demo App](/frontend/Screenshot 2025-01-11 152657.png)
-
+![image alt](https://github.com/VikasVerma-1/Roxiler-Assesment-MERN-stack/blob/c70d2bd62d282f14d9d86a375f2ccdcfd6f821ce/Screenshot%202025-01-11%20152657.png)
+![image alt]()
 <video controls src="Roxiler Assesment Video-1.mp4" title="Title"></video>
 
 **Required Softwares**
